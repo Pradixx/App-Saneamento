@@ -106,8 +106,4 @@ Se você deseja contribuir com este projeto, sinta-se à vontade para fazer um f
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` (se existir) para mais detalhes.
 
-## Autor
-
-Manus AI
-
 
